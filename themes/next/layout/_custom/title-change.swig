@@ -1,0 +1,1 @@
+<script type="text/javascript">var OriginTitile=document.title,st;document.addEventListener("visibilitychange",function(){document.hidden?(document.title="Zhangxinhe's blog",clearTimeout(st)):(document.title=":) "+OriginTitile,st=setTimeout(function(){document.title=OriginTitile},4e3))})</script>W
